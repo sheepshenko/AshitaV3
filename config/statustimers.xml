@@ -1,0 +1,43 @@
+<statustimers>
+	<global> <!--Anything inside global tag is parsed for all characters.  You can make charname tags for char-specific settings-->
+		<posx>-1</posx> <!--X Position of top left timer, if set to -1 will calculate based on boot profile.-->
+		<posy>-1</posy> <!--Y Position of top left timer, if set to -1 will calculate based on boot profile.-->
+		<stepx>26</stepx> <!--Horizontal spacing between 2 timers-->
+		<stepy>25</stepy> <!--Vertical spacing between 2 timers-->
+		<font_a>255</font_a> <!--Font Alpha(0-255)-->
+		<font_r>255</font_r> <!--Font Red(0-255)-->
+		<font_g>255</font_g> <!--Font Green(0-255)-->
+		<font_b>255</font_b> <!--Font Blue(0-255)-->
+		<font_name>Tahoma</font_name> <!--Font Name-->
+		<font_size>7</font_size> <!--Font Size-->
+		<font_bold>false</font_bold> <!--Font Bold(true/false)-->
+		<font_ital>false</font_ital> <!--Font Italic(true/false)-->
+		<back_a>100</back_a> <!--Background Alpha(0-255)-->
+		<back_r>0</back_r> <!--Background Red(0-255)-->
+		<back_g>0</back_g> <!--Background Green(0-255)-->
+		<back_b>0</back_b> <!--Background Blue(0-255)-->
+		<colorcode>false</colorcode> <!--Makes text shift red/green/yellow based on time remaining-->
+		
+		<!--You can use either name or ID tags to edit buffs' duration.-->
+		<entry name="reraise">3600</entry>
+		<entry name="protect">1800</entry>
+		<entry name="shell">1800</entry>
+		<entry name="phalanx">180</entry>
+		<entry name="stoneskin">300</entry>
+		
+		<!--A duration of 0 will cause no timer to display on that buff, so you can see the icon clearly.-->
+		<entry id="6">0</entry> <!-- Utsusemi: 1 Shadow -->
+		<entry id="444">0</entry> <!-- Utsusemi: 2 Shadows -->
+		<entry id="445">0</entry> <!-- Utsusemi: 3 Shadows -->
+		<entry id="446">0</entry> <!-- Utsusemi: 4 Shadows -->
+		<entry id="381">0</entry> <!-- 1 Finishing Move -->
+		<entry id="382">0</entry> <!-- 2 Finishing Moves -->
+		<entry id="383">0</entry> <!-- 3 Finishing Moves -->
+		<entry id="384">0</entry> <!-- 4 Finishing Moves -->
+		<entry id="385">0</entry> <!-- 5 Finishing Moves -->
+	</global>
+		
+	<Thorny> <!--Settings specified in a character tag after global will overwrite those in global.-->
+		<font_name>Times New Roman</font_name>
+	</Thorny>
+</statustimers>

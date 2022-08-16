@@ -1,0 +1,1 @@
+["Delta Thrust", "Barbed Crescent", "Thrashing Assault", "Heavy Strike", "Empty Thrash", "Paralyzing Triad", "Erratic Flutter", "Sudden Lunge", "Fantod", "Sinker Drill", "Nat. Meditation", "Frenetic Rip", "Vanity Dive", "Disseverment", "Dimensional Death", "Occultation", "Cocoon"]

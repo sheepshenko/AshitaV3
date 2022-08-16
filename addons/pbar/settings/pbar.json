@@ -1,0 +1,23 @@
+{
+    "color": {
+        "hp_color": "FFFFFFFF",
+        "hp_color_25": "FFFF0000",
+        "hp_color_50": "FFFFA500",
+        "hp_color_75": "FFFFFF00",
+        "mp_color": "FFFFFFFF",
+        "mp_color_25": "FFFF0000",
+        "mp_color_50": "FFFFA500",
+        "mp_color_75": "FFFFFF00",
+        "tp_color": "FFFFFFFF",
+        "tp_color_99": "FF00FF00"
+    },
+    "font": {
+        "bgcolor": 2147483648,
+        "bgvisible": true,
+        "bold": true,
+        "color": 4294967295,
+        "name": "Arial",
+        "position": [ 7, 120 ],
+        "size": 10
+    }
+}

@@ -1,0 +1,3 @@
+["Cold Wave","Ice Break","Frost Breath","Infrasonics","Blitzstrahl","Mind Blast","Charged Whisker","Temporal Shift",
+"Blank Gaze","Radiant Breath","Actinic Burst","Light of Penance","Death Ray","Sandspray","Eyes On Me","Erratic Flutter",
+"Occultation","Diamondhide","Battery Charge"]

@@ -1,0 +1,11 @@
+{
+    "font": {
+        "bgcolor": 2147483648,
+        "bgvisible": true,
+        "color": 4294967295,
+        "family": "Arial",
+        "position": [ 100, 300 ],
+        "size": 10
+    },
+    "max_displayed": 10
+}

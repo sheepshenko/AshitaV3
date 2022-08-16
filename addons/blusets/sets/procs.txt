@@ -1,0 +1,1 @@
+[ "Heat Breath", "Magnetite Cloud", "Maelstrom", "Mysterious Light", "Ice Break", "Mind Blast", "Radiant Breath", "Eyes On Me", "Delta Thrust", "Barbed Crescent", "Thrashing Assault", "Heavy Strike", "Empty Thrash", "Paralyzing Triad", "Erratic Flutter", "Sudden Lunge", "Fantod", "Sinker Drill", "Nat. Meditation", "Occultation" ]

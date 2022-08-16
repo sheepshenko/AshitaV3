@@ -1,0 +1,24 @@
+{
+    "Show": {
+        "burst": [ "WAR", "MNK", "WHM", "BLM", "RDM", "THF", "PLD", "DRK", "BST", "BRD", "RNG", "SAM", "NIN", "DRG", "SMN", "BLU", "COR", "PUP", "DNC", "SCH", "GEO", "RUN" ],
+        "pet": [ "BST", "SMN" ],
+        "props": [ "WAR", "MNK", "WHM", "BLM", "RDM", "THF", "PLD", "DRK", "BST", "BRD", "RNG", "SAM", "NIN", "DRG", "SMN", "BLU", "COR", "PUP", "DNC", "SCH", "GEO", "RUN" ],
+        "spell": [ "SCH", "BLU" ],
+        "step": [ "WAR", "MNK", "WHM", "BLM", "RDM", "THF", "PLD", "DRK", "BST", "BRD", "RNG", "SAM", "NIN", "DRG", "SMN", "BLU", "COR", "PUP", "DNC", "SCH", "GEO", "RUN" ],
+        "timer": [ "WAR", "MNK", "WHM", "BLM", "RDM", "THF", "PLD", "DRK", "BST", "BRD", "RNG", "SAM", "NIN", "DRG", "SMN", "BLU", "COR", "PUP", "DNC", "SCH", "GEO", "RUN" ],
+        "weapon": [ "WAR", "MNK", "WHM", "BLM", "RDM", "THF", "PLD", "DRK", "BST", "BRD", "RNG", "SAM", "NIN", "DRG", "SMN", "BLU", "COR", "PUP", "DNC", "SCH", "GEO", "RUN" ]
+    },
+    "aeonic": false,
+    "color": true,
+    "display": {
+        "bg": true,
+        "bgcolor": 1711276032,
+        "color": -1,
+        "font": "Consolas",
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "size": 10
+    }
+}

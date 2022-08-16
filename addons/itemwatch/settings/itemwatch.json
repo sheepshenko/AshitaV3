@@ -1,0 +1,13 @@
+{
+    "compact_mode": false,
+    "font": {
+        "bgcolor": -2147483648,
+        "bgvisible": true,
+        "color": -1,
+        "name": "Consolas",
+        "position": [ 1699, 360 ],
+        "size": 10
+    },
+    "kicolor1": -65536,
+    "kicolor2": -16711936
+}

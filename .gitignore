@@ -1,0 +1,5 @@
+# Ignore DATs
+*.dat
+
+# Ignore logs
+/logs/*

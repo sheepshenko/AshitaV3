@@ -1,0 +1,3 @@
+["Blastbomb","Thermal Pulse","Heat Breath","Firespit","Sandspin","Magnetite Cloud","Cimicine Discharge","Bad Breath",
+"Cursed Sphere","Acrid Stream","Corrosive Ooze","Maelstrom","Hecatomb Wave","Mysterious Light","Leafstorm","Reaving Wind","Erratic Flutter",
+"Occultation","Diamondhide","Battery Charge"]

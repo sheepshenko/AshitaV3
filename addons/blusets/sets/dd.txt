@@ -1,0 +1,3 @@
+["Delta Thrust", "Barbed Crescent", "Empty Thrash", "Heavy Strike", "Thrashing Assault", "Sudden Lunge", "Sickle Slash",
+"Tail Slap", "Sinker Drill", "Paralyzing Triad", "Fantod", "Diffusion Ray", "Nat. Meditation", "Anvil Lightning", 
+"Erratic Flutter", "Magic Fruit", "Tenebral Crush"]

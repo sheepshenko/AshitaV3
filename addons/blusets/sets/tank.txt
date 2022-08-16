@@ -1,0 +1,3 @@
+[ "Delta Thrust", "Barbed Crescent", "Glutinous Dart", "Erratic Flutter", "Barrier Tusk", "Saurian Slide", "Actinic Burst", "Winds of Promy.", 
+"Fantod", "Jettatura", "Temporal Shift", "Magic Fruit", "Battery Charge", "Occultation", "Cocoon", "Atra. Libations", "Entomb", 
+"Vertical Cleave", "Saline Coat","Restoral" ]

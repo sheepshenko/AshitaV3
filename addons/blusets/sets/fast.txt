@@ -1,0 +1,2 @@
+[ "Delta Thrust", "Barbed Crescent", "Thrashing Assault", "Heavy Strike", "Empty Thrash", "Erratic Flutter", "Sudden Lunge", "Fantod", "Sinker Drill", "Occultation", 
+"Bad Breath", "Sub-zero Smash", "Auroral Drape", "Wind Breath", "Cocoon", "Battery Charge", "Diamondhide", "Nat. Meditation", "Disseverment", "Dimensional Death"]
